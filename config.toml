@@ -2,10 +2,10 @@ languageCode = "en-us"
 contentdir = "content"
 publishdir = "public"
 builddrafts = false
-baseurl = "http://daoyinchuan.com/"
+baseurl = "http://www.daoyinchuan.com/"
 canonifyurls = true
 title = "Daoyin Chuan"
-author = "Don Stringham"
+author = "Don B. Stringham"
 copyright = "This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License."
 theme = "hugo-uno"
 
