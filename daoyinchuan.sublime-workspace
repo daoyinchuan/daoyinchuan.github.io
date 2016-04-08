@@ -1,0 +1,1119 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"msg",
+				"msg_receive〔function〕"
+			],
+			[
+				"que",
+				"$queueId〔variable〕"
+			],
+			[
+				"qu",
+				"$queueId〔variable〕"
+			],
+			[
+				"msg_",
+				"msg_send〔function〕"
+			],
+			[
+				"qeue",
+				"queueId"
+			],
+			[
+				"rea",
+				"realpath〔function〕"
+			],
+			[
+				"ft",
+				"ftok"
+			],
+			[
+				"re",
+				"$responseHtml〔variable〕"
+			],
+			[
+				"element",
+				"element_2"
+			],
+			[
+				"HTML",
+				"HTML_STUFF"
+			],
+			[
+				"cont",
+				"$controller〔variable〕"
+			],
+			[
+				"arg",
+				"$argv〔variable〕"
+			],
+			[
+				"log",
+				"logFile"
+			],
+			[
+				"fun",
+				"func_get_args〔function〕"
+			],
+			[
+				"prot",
+				"prototype"
+			],
+			[
+				"con",
+				"$contents〔variable〕"
+			],
+			[
+				"ob",
+				"ob_start"
+			],
+			[
+				"ob_",
+				"ob_end_clean〔function〕"
+			],
+			[
+				"ob_get",
+				"ob_get_contents〔function〕"
+			],
+			[
+				"pcnt",
+				"pcntl_waitpid〔function〕"
+			],
+			[
+				"pcn",
+				"pcntl_fork〔function〕"
+			],
+			[
+				"work",
+				"$workload〔variable〕"
+			],
+			[
+				"pc",
+				"pcntl_fork"
+			],
+			[
+				"CON",
+				"CONTROLLER_PORT〔constant〕"
+			],
+			[
+				"request",
+				"$request_nbr〔variable〕"
+			],
+			[
+				"zero",
+				"zeromq-4"
+			],
+			[
+				"zer",
+				"zeromq-4"
+			],
+			[
+				"Project",
+				"Project1Scheduler"
+			],
+			[
+				"Projec",
+				"Project1Scheduler"
+			],
+			[
+				"dep",
+				"dependent"
+			],
+			[
+				"Program",
+				"ProgramRepository"
+			],
+			[
+				"Des",
+				"Design"
+			],
+			[
+				"IP",
+				"DOCKER_IP"
+			],
+			[
+				"DOCK",
+				"DOCKER_MACHINE_NAME"
+			],
+			[
+				"DOC",
+				"DOCKER_MACHINE_NAME"
+			],
+			[
+				"machine",
+				"machine-name"
+			],
+			[
+				"volumes",
+				"volumes_from"
+			],
+			[
+				"ph",
+				"phalcon"
+			],
+			[
+				"l",
+				"L12020"
+			],
+			[
+				"html",
+				"html5	Simple HTML5 Boilerplate"
+			],
+			[
+				"http",
+				"http_502"
+			],
+			[
+				"serv",
+				"server_name"
+			],
+			[
+				"jp",
+				"jpg"
+			],
+			[
+				"f",
+				"fwd_table〔variable〕"
+			],
+			[
+				"swith",
+				"switch_num〔variable〕"
+			],
+			[
+				"por",
+				"port_num〔variable〕"
+			],
+			[
+				"swit",
+				"switch_num〔variable〕"
+			],
+			[
+				"get",
+				"get_inport"
+			],
+			[
+				"get_",
+				"get_switch"
+			],
+			[
+				"switch",
+				"switch_num"
+			],
+			[
+				"Ap",
+				"Silex\\Application〔class〕"
+			],
+			[
+				"Sy",
+				"Symfony〔namespace〕"
+			],
+			[
+				"_",
+				"$_SESSION〔variable〕"
+			],
+			[
+				"Re",
+				"Response"
+			],
+			[
+				"ba",
+				"barrell"
+			],
+			[
+				"prod",
+				"$products〔variable〕"
+			],
+			[
+				"size",
+				"sizeof〔function〕"
+			],
+			[
+				"pro",
+				"$products〔variable〕"
+			],
+			[
+				"new_p",
+				"new_policy〔variable〕"
+			],
+			[
+				"sw",
+				"switch_num〔variable〕"
+			],
+			[
+				"swi",
+				"switch_num"
+			],
+			[
+				"fw",
+				"fwd_table"
+			],
+			[
+				"fwd",
+				"fwd_table_entry〔variable〕"
+			],
+			[
+				"new",
+				"$newId〔variable〕"
+			],
+			[
+				"json",
+				"json_decode〔function〕"
+			],
+			[
+				"app",
+				"$app〔variable〕"
+			],
+			[
+				"RE",
+				"Response〔namespace〕"
+			],
+			[
+				"incident",
+				"$incidentFromSn〔variable〕"
+			],
+			[
+				"__",
+				"__METHOD__"
+			],
+			[
+				"notify",
+				"$notifyModel〔variable〕"
+			],
+			[
+				"emr",
+				"emris-db"
+			],
+			[
+				"res",
+				"$response〔variable〕"
+			],
+			[
+				"MCRYPT",
+				"mcrypt_ecb"
+			],
+			[
+				"tex",
+				"$text〔variable〕"
+			],
+			[
+				"MCRY",
+				"MCRYPT_CRYPT〔constant〕"
+			],
+			[
+				"MCRYP",
+				"MCRYPT_BLOWFISH〔constant〕"
+			],
+			[
+				"mcrypt_e",
+				"mcrypt_encrypt〔function〕"
+			],
+			[
+				"fp",
+				"$fp〔variable〕"
+			],
+			[
+				"en",
+				"$encrypted〔variable〕"
+			],
+			[
+				"PHP_",
+				"PHP_EOL〔constant〕"
+			],
+			[
+				"Event",
+				"EventEnhancer\\Console\\Command\\TestCommand〔class〕"
+			],
+			[
+				"php5-my",
+				"php5-mcrypt"
+			],
+			[
+				"pdo",
+				"pdo_mysql"
+			],
+			[
+				"nu",
+				"$numOfCis〔variable〕"
+			],
+			[
+				"docker",
+				"docker-nginx-php"
+			],
+			[
+				"ga",
+				"$ganon〔variable〕"
+			],
+			[
+				"va",
+				"var_dump"
+			],
+			[
+				"kb_",
+				"kb_knowledge"
+			],
+			[
+				"print",
+				"print_r〔function〕"
+			],
+			[
+				"kb",
+				"kbArticle"
+			],
+			[
+				"strc",
+				"strcmp"
+			],
+			[
+				"auth",
+				"$authFile〔variable〕"
+			],
+			[
+				"j",
+				"$jobsProcessed〔variable〕"
+			],
+			[
+				"jo",
+				"$jobId〔variable〕"
+			],
+			[
+				"var_",
+				"var_dump〔function〕"
+			],
+			[
+				"comm",
+				"$commonDir〔variable〕"
+			],
+			[
+				"config",
+				"configTmp"
+			],
+			[
+				"dev",
+				"phalcon-devtools"
+			],
+			[
+				"dir",
+				"dirname〔function〕"
+			],
+			[
+				"connection",
+				"connection_handler"
+			],
+			[
+				"conn_",
+				"conn_params_t"
+			],
+			[
+				"conn",
+				"connection_handler"
+			],
+			[
+				"g",
+				"gArgValues"
+			],
+			[
+				"lo",
+				"localtime"
+			],
+			[
+				"handle",
+				"handle_socket"
+			],
+			[
+				"job",
+				"jobQueueCreate"
+			],
+			[
+				"pthread",
+				"pthread_mutex_lock"
+			],
+			[
+				"EXI",
+				"EXIT_ERROR"
+			],
+			[
+				"threadPool",
+				"threadPoolAddWork"
+			],
+			[
+				"threads",
+				"threadsTotal"
+			],
+			[
+				"ptrTh",
+				"ptrThreadPool"
+			],
+			[
+				"bsemPo",
+				"bsemPostAll"
+			],
+			[
+				"num",
+				"numOfThreadsAlive"
+			],
+			[
+				"JOB",
+				"JOB_T"
+			],
+			[
+				"h",
+				"hasJobs"
+			],
+			[
+				"jobQue",
+				"jobQueueClear"
+			],
+			[
+				"pthread_mu",
+				"pthread_mutex_lock"
+			],
+			[
+				"ERR",
+				"EXIT_ERROR"
+			],
+			[
+				"JO",
+				"JOBQUEUE_T"
+			],
+			[
+				"ptrJob",
+				"ptrJobQueue"
+			],
+			[
+				"n",
+				"numOfThreadsWorking"
+			],
+			[
+				"pthre",
+				"pthread_mutex_t"
+			],
+			[
+				"file_",
+				"file_receive_eater"
+			],
+			[
+				"from",
+				"fromFh"
+			],
+			[
+				"FIL",
+				"FILE_SIZE"
+			],
+			[
+				"FILE",
+				"FILE_NAME"
+			],
+			[
+				"w",
+				"w-test"
+			],
+			[
+				"fro",
+				"fromFd"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"rmove",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"update",
+				"Evernote: Update Evernote Note"
+			],
+			[
+				"open",
+				"Evernote: Open Evernote Note"
+			],
+			[
+				"upd",
+				"Evernote: Update Evernote Note"
+			],
+			[
+				"op",
+				"Evernote: Open Evernote Note"
+			],
+			[
+				"eve",
+				"Evernote: Send to Evernote as new note"
+			],
+			[
+				"Recon",
+				"Evernote Settings: Reconfigure Authorization"
+			],
+			[
+				"ever",
+				"Evernote: Open Evernote Note"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"instll",
+				"Package Control: Install Package"
+			],
+			[
+				"PHP Code Sniffer: ",
+				"PHP Code Sniffer: Clear sniffer marks"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"synm",
+				"Set Syntax: Markdown"
+			],
+			[
+				"scenario",
+				"Snippet: Scenario"
+			],
+			[
+				"example",
+				"Snippet: Examples Table"
+			],
+			[
+				"feature",
+				"Snippet: Behat / Feature / @Given"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"Re",
+				"Package Control: Remove Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"markdown",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"ra",
+				"Raw Line Edit: Toggle"
+			],
+			[
+				"raw",
+				"Raw Line Edit: Toggle"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"prett",
+				"HTMLPrettify"
+			],
+			[
+				"pretty",
+				"HTMLPrettify"
+			],
+			[
+				"print",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"linter",
+				"SublimeLinter: Choose Lint Mode"
+			],
+			[
+				"gutt",
+				"SublimeLinter: Choose Gutter Theme"
+			],
+			[
+				"ugg",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"jshin",
+				"JSHint"
+			],
+			[
+				"ip",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"prei",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"pri",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"preview",
+				"Markdown HTML Preview"
+			],
+			[
+				"js",
+				"Set Syntax: JSON"
+			],
+			[
+				"code",
+				"PHP Code Sniffer: Switch coding standard"
+			],
+			[
+				"HTML",
+				"HTMLBeautify"
+			],
+			[
+				"brow",
+				"File: Open In Browser - Production Server"
+			]
+		],
+		"width": 746.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/Users/stringhamdb/Sandbox/daoyinchuan.github.io/content/post/welcome.md",
+		"/Users/stringhamdb/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/stringhamdb/Library/Application Support/Sublime Text 3/Packages/Markdown Preview/MarkdownPreview.sublime-settings",
+		"/Users/stringhamdb/Library/Application Support/Sublime Text 3/Packages/User/MarkdownPreview.sublime-settings",
+		"/Users/stringhamdb/Sandbox/daoyinchuan.github.io/public/images/background-cover.jpg",
+		"/Users/stringhamdb/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/stringhamdb/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/stringhamdb/Sandbox/daoyinchuan.github.io/public/index.html",
+		"/Users/stringhamdb/Sandbox/daoyinchuan.github.io/themes/hugo-uno/theme.toml",
+		"/Users/stringhamdb/Sandbox/daoyinchuan.github.io/config.yaml",
+		"/Users/stringhamdb/Sandbox/daoyinchuan.github.io/themes/hugo-uno/README.md",
+		"/Users/stringhamdb/Sandbox/daoyinchuan.github.io/themes/hugo-uno/static/images/background-cover.jpg",
+		"/Users/stringhamdb/Library/Application Support/Sublime Text 3/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+		"/Users/stringhamdb/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/stringhamdb/Sandbox/emris-qanat/composer.json",
+		"/Users/stringhamdb/Sandbox/emris-alarm-web-service/vendor/emris/core/src/Service/Identity/DefaultAuthorizationService.php",
+		"/Users/stringhamdb/Downloads/index.php",
+		"/Users/stringhamdb/Sandbox/emris-db/.semver",
+		"/Users/stringhamdb/Sandbox/emris-db/RoboFile.php",
+		"/Users/stringhamdb/Sandbox/emris-db/src/Version.php",
+		"/Users/stringhamdb/Sandbox/emris-qanat/specs/Distributor/Adapter/redis-adapter.spec.php",
+		"/Users/stringhamdb/Sandbox/emris-alarm-web-service/docker/scripts/add.shareddata",
+		"/Users/stringhamdb/Sandbox/emris-alarm-web-service/docker/scripts/add.appserver",
+		"/Users/stringhamdb/Sandbox/emris-scaler/app/scaler",
+		"/Users/stringhamdb/Sandbox/emris-alarm-web-service/docker/scripts/del.appserver",
+		"/Users/stringhamdb/Sandbox/emris-scaler/composer.json",
+		"/Users/stringhamdb/.bash_profile",
+		"/Users/stringhamdb/Sandbox/tmp/testproject/composer.json",
+		"/Users/stringhamdb/Sandbox/tmp/testproject2/composer.json",
+		"/Users/stringhamdb/Sandbox/tmp/testproject/composer.",
+		"/Users/stringhamdb/Library/Application Support/Yummy FTP/Remote Edits/l13763.ldschurch.org Edits/config_prod.yml/config_prod.yml",
+		"/Users/stringhamdb/Library/Application Support/Yummy FTP/Remote Edits/l13763.ldschurch.org Edits/index.php/index.php",
+		"/Users/stringhamdb/Sandbox/emris-alarm-web-service/app/config_prod.yml",
+		"/Users/stringhamdb/Library/Application Support/Yummy FTP/Remote Edits/l13763.ldschurch.org Edits/config_dev.yml/config_dev.yml",
+		"/Users/stringhamdb/Library/Application Support/Yummy FTP/Remote Edits/l13517.ldschurch.org Edits/env.up/env.up",
+		"/Users/stringhamdb/Library/Application Support/Yummy FTP/Remote Edits/l13517.ldschurch.org Edits/config_dev.yml/config_dev.yml",
+		"/Users/stringhamdb/Library/Application Support/Yummy FTP/Remote Edits/l13517.ldschurch.org Edits/config_local.yml1/config_local.yml",
+		"/Users/stringhamdb/Library/Application Support/Yummy FTP/Remote Edits/l13517.ldschurch.org Edits/config_local.yml/config_local.yml",
+		"/Users/stringhamdb/Library/Application Support/Yummy FTP/Remote Edits/l13517.ldschurch.org Edits/add.appserver/add.appserver",
+		"/Users/stringhamdb/Library/Application Support/Yummy FTP/Remote Edits/l13763.ldschurch.org Edits/env.up/env.up",
+		"/Users/stringhamdb/Library/Application Support/Yummy FTP/Remote Edits/l13763.ldschurch.org Edits/add.appserver/add.appserver",
+		"/Users/stringhamdb/Sandbox/docker/emris/nginxplus_php5fpm/Dockerfile",
+		"/Users/stringhamdb/Sandbox/docker/emris/nginxplus_php5fpm/run",
+		"/Users/stringhamdb/Sandbox/tmp/intphpmsgque/worker.php",
+		"/Users/stringhamdb/Sandbox/tmp/intphpmsgque/queue.php",
+		"/Users/stringhamdb/Sandbox/tmp/intphpmsgque/vent.php",
+		"/Users/stringhamdb/Sandbox/docker/emris/php5cli/Dockerfile",
+		"/Users/stringhamdb/Sandbox/docker/emris/nginxplus/Dockerfile",
+		"/Users/stringhamdb/Sandbox/docker/emris/php5cli/run",
+		"/Users/stringhamdb/Sandbox/tmp/intphpmsgque/sync.php",
+		"/Users/stringhamdb/Sandbox/siege-scripts/siege-health-l13763.sh",
+		"/Users/stringhamdb/Sandbox/siege-scripts/siege-doc-l13763.sh",
+		"/usr/local/etc/php/5.6/conf.d/ext-xdebug.ini",
+		"/usr/local/etc/php/5.6/php.ini",
+		"/Users/stringhamdb/Downloads/email.php",
+		"/Users/stringhamdb/Downloads/AdminLTE-2.0.3/plugins/jQueryUI/jquery-ui-1.10.3.js",
+		"/Users/stringhamdb/Sandbox/tmp/assignment6/public/index.php",
+		"/Users/stringhamdb/Sandbox/tmp/assignment6/public/index.html",
+		"/Users/stringhamdb/Sandbox/tmp/assignment6/email.php",
+		"/Users/stringhamdb/Sandbox/tmp/assignment6/index.html",
+		"/Users/stringhamdb/Sandbox/tmp/email/index.html",
+		"/Users/stringhamdb/Sandbox/tmp/email/email.php",
+		"/Users/stringhamdb/Sandbox/tmp/email/form2.html",
+		"/Users/stringhamdb/Library/Mobile Documents/com~apple~CloudDocs/Education/gatech/cs6310/assignment4/CS6310-master/Assignment 5/Events.txt",
+		"/Users/stringhamdb/Sandbox/emris-alarm-api/composer.json",
+		"/Users/stringhamdb/Sandbox/zguide/examples/PHP/taskvent.php",
+		"/Users/stringhamdb/Sandbox/zguide/examples/PHP/tasksink3.php",
+		"/Users/stringhamdb/Sandbox/zguide/examples/PHP/taskwork3.php",
+		"/Users/stringhamdb/Sandbox/zguide/examples/PHP/taskcntl3.php",
+		"/Users/stringhamdb/Sandbox/zguide/examples/PHP/tasksink2.php",
+		"/Users/stringhamdb/Sandbox/zguide/examples/PHP/taskwork2.php",
+		"/Users/stringhamdb/Sandbox/zguide/examples/PHP/taskcntl2.php",
+		"/Users/stringhamdb/Library/Mobile Documents/com~apple~CloudDocs/Temp/OoJavascript2.js",
+		"/Users/stringhamdb/Library/Mobile Documents/com~apple~CloudDocs/Temp/OoJavascript.js",
+		"/Users/stringhamdb/Sandbox/zguide/examples/PHP/logFile",
+		"/Users/stringhamdb/Sandbox/zguide/examples/PHP/0",
+		"/Users/stringhamdb/Library/Mobile Documents/com~apple~CloudDocs/Temp/OoJavascript2.html",
+		"/Users/stringhamdb/Library/Mobile Documents/com~apple~CloudDocs/Temp/OoJavascript.html",
+		"/Users/stringhamdb/Sandbox/emris-scaler/.semver",
+		"/Users/stringhamdb/Sandbox/emris-scaler/app/conf/config_xxxx.yml.dist",
+		"/Users/stringhamdb/Sandbox/emris-scaler/app/config_local.yml",
+		"/Users/stringhamdb/Sandbox/emris-cli/composer.json",
+		"/Users/stringhamdb/Sandbox/tmp/vent-sink-test/controller.php",
+		"/Users/stringhamdb/Sandbox/tmp/vent-sink-test/taskvent.php",
+		"/Users/stringhamdb/Sandbox/tmp/vent-sink-test/taskwork2.php",
+		"/Users/stringhamdb/Sandbox/tmp/vent-sink-test/tasksink2.php",
+		"/Users/stringhamdb/Sandbox/tmp/vent-sink-test/child.php",
+		"/Users/stringhamdb/Sandbox/tmp/vent-sink-test/parent.php",
+		"/Users/stringhamdb/Sandbox/tmp/vent-sink-test/sink.php",
+		"/Users/stringhamdb/Sandbox/tmp/vent-sink-test/work.php",
+		"/Users/stringhamdb/Sandbox/ZeroMQ-Talk/worker/sink.php",
+		"/Users/stringhamdb/Sandbox/ZeroMQ-Talk/worker/work.php",
+		"/Users/stringhamdb/Sandbox/ZeroMQ-Talk/worker/controller.php",
+		"/Users/stringhamdb/Sandbox/ZeroMQ-Talk/queue/req.php",
+		"/Users/stringhamdb/Sandbox/ZeroMQ-Talk/queue/rep.php",
+		"/Users/stringhamdb/Sandbox/ZeroMQ-Talk/queue/queue.php",
+		"/Users/stringhamdb/Sandbox/ZeroMQ-Talk/README",
+		"/Users/stringhamdb/Sandbox/zguide/examples/PHP/tasksink.php",
+		"/Users/stringhamdb/Sandbox/zguide/examples/PHP/taskwork.php",
+		"/Users/stringhamdb/Sandbox/zguide/examples/PHP/msgqueue.php",
+		"/Users/stringhamdb/Sandbox/zguide/examples/PHP/wuserver.php",
+		"/Users/stringhamdb/Sandbox/zguide/examples/PHP/zmsg.php",
+		"/Users/stringhamdb/Sandbox/zguide/examples/PHP/zmsg_test.php",
+		"/Users/stringhamdb/Sandbox/zguide/examples/PHP/mspoller.php",
+		"/Users/stringhamdb/Sandbox/zguide/examples/PHP/README",
+		"/Users/stringhamdb/Sandbox/emris-db/composer.json",
+		"/Users/stringhamdb/Sandbox/emris-http/composer.json",
+		"/Users/stringhamdb/Sandbox/emris-common/src/Utils.php",
+		"/Users/stringhamdb/Sandbox/emris-common/README.md",
+		"/Users/stringhamdb/Sandbox/docker/emris/zeromq/hello-world-0mq.php",
+		"/Users/stringhamdb/Sandbox/emris-event-service/composer.json",
+		"/Users/stringhamdb/Sandbox/docker/emris/php5cli/build",
+		"/Users/stringhamdb/Sandbox/docker/emris/zeromq/Dockerfile",
+		"/Users/stringhamdb/Library/Application Support/Sublime Text 3/Packages/User/SideBarGit.sublime-settings",
+		"/Users/stringhamdb/Sandbox/docker/emris/zeromq/run",
+		"/Users/stringhamdb/Sandbox/docker/emris/zeromq/build",
+		"/Users/stringhamdb/Sandbox/tmp/hello-world-0mq.php",
+		"/Users/stringhamdb/Sandbox/emris-alarm-api/docker/scripts/add.shareddata",
+		"/Users/stringhamdb/Sandbox/docker/donbstringham/php7fpm_image/Dockerfile",
+		"/Users/stringhamdb/Sandbox/emris-scaler/src/Commands/ScalerCommand.php",
+		"/Users/stringhamdb/Sandbox/emris-scaler/src/Scaler/Domain/Services/ScalerService.php",
+		"/Users/stringhamdb/Sandbox/emris-scaler/src/Scaler/Domain/Services/DomainServicesInterface.php",
+		"/Users/stringhamdb/Library/Mobile Documents/com~apple~CloudDocs/Education/gatech/cs6310/project1/Project One Design Description.md",
+		"/Users/stringhamdb/Downloads/ProjectOne/src/edu/gatech/cs6310/projectOne/repository/ProgramRepository.java",
+		"/Users/stringhamdb/Downloads/ProjectOne/src/edu/gatech/cs6310/projectOne/services/Project1Scheduler.java",
+		"/Users/stringhamdb/Downloads/ProjectOne/src/edu/gatech/cs6310/projectOne/ProjectOne.java",
+		"/Users/stringhamdb/Downloads/ProjectOne/src/edu/gatech/cs6310/projectOne/domain/StudentDemand.java",
+		"/Users/stringhamdb/Downloads/ProjectOne/src/edu/gatech/cs6310/projectOne/domain/Prerequisite.java"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 96.0,
+		"where_history":
+		[
+			"<current file>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"theme",
+			"    ",
+			"\"bof\"} },",
+			"markdown",
+			"preview",
+			"xdebug",
+			"extensions",
+			"xdebug",
+			" --",
+			"set_env_var",
+			"background",
+			"FFFFFF",
+			"background",
+			"source",
+			"PHP",
+			"background",
+			"”",
+			"“",
+			";\n",
+			"nginx",
+			"libbsd0",
+			"echo",
+			"5",
+			"append",
+			"\"))",
+			"\"))\n",
+			"conf.d",
+			"zmq.so",
+			"zmq",
+			"availability",
+			"isIncidentCreatePayloadValid",
+			"echo",
+			"1058",
+			"1508",
+			"Notification event - vCenter user refresh failed for user:",
+			"Bot-Solr Health Check",
+			"_setApiResponse",
+			"_apiResponseCollection",
+			"run(",
+			"json_decode",
+			"_processConcurrentRequests",
+			"json_decode",
+			"apcu",
+			"synced_folder",
+			"jessie",
+			"80",
+			"_getSource",
+			"getSingleRequestError",
+			"getGroups",
+			"checkForResponseErrors",
+			"begin of file",
+			"bof",
+			"end",
+			"home",
+			"ortronics",
+			"parallels",
+			"isCiValid",
+			"$scope.incident",
+			"$scope.incident.ci",
+			"$scope.incident",
+			"createSmIncident",
+			"parallels",
+			"ZX-29debf2ee21d0d866ddbbec5ed26df1e",
+			"Config File Path",
+			"port",
+			"80",
+			"parallels",
+			"provider",
+			"goog",
+			"userid",
+			"php-fpm",
+			"localhost.localdomain",
+			"\n      localhost.localdomain  ",
+			"APP_ENV",
+			"api",
+			"\n        ",
+			"realpath_cache_size",
+			"Chapter 17",
+			"Chapter",
+			"55w",
+			"threadCreate",
+			");\n",
+			"binding to port",
+			"= ",
+			"send",
+			"received",
+			"close_socket",
+			"unint",
+			"uint_t",
+			"sending request",
+			"pthread_mutex_init",
+			"tpDispatch",
+			"APP_SUCCESS",
+			"APP_ERROR",
+			"APP_SUCCESS",
+			"APP_ERROR",
+			"handleRequest",
+			"newSock",
+			"BUFFER_SIZE",
+			"filename",
+			"printf",
+			"NEW_LINE",
+			"workloadFilePath",
+			"project",
+			"body",
+			"delete",
+			"line",
+			"deploy",
+			"tab",
+			"tabs"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"export",
+			"\"",
+			"56w",
+			"uint",
+			"unint",
+			"EXIT_SUCCESS",
+			"EXIT_ERROR"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 116.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "daoyinchuan.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"EMRIS Feature"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 256.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
