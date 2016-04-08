@@ -17,3 +17,4 @@ themes/**
 
 # sftp configuration file
 sftp-config.json
+hugo-uno
