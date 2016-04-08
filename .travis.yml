@@ -9,6 +9,5 @@ git:
 install:
     - sudo pip install Pygments
     - go get github.com/spf13/hugo
-    - echo "daoyinchuan.com" > ./public/CNAME
 script:
     - bash ./scripts/deploy.sh
