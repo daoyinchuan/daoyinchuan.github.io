@@ -11,11 +11,13 @@ git clone https://github.com/SenjinDarashiva/hugo-uno.git ./themes/hugo-uno
 mkdir ../daoyinchuan.com
 hugo
 cp -R public/* ../daoyinchuan.com
+git stash
 git checkout master
 rm -fr *
 cp -R ../daoyinchuan.com/* .
-git add --all
+git add *
 git commit -m "Latest content via travis-ci"
-git push --set-upstream origin
-git checkout source
+git push origin --all
 rm -fr ../daoyinchuan.com
+git checkout source
+git stash pop
