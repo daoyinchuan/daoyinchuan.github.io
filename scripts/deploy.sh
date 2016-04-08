@@ -7,6 +7,7 @@ git config --global user.name "Don B. Stringham"
 
 # Build the project.
 git checkout source
+git clone https://github.com/SenjinDarashiva/hugo-uno.git ./themes/hugo-uno
 mkdir ../daoyinchuan.com
 hugo
 cp -R public/* ../daoyinchuan.com
@@ -14,6 +15,7 @@ git checkout master
 rm -fr *
 cp -R ../daoyinchuan.com/* .
 git add --all
-git commit -m "latest content via travis"
+git commit -m "Latest content via travis-ci"
 git push --set-upstream origin
+git checkout source
 rm -fr ../daoyinchuan.com
