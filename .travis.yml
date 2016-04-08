@@ -1,0 +1,22 @@
+language: go
+
+go:
+    - "1.5.1"
+
+env:
+    global:
+        - GIT_NAME="Don B. Stringham"
+        - GIT_EMAIL="donbstringham@gmail.com"
+        - SOURCE_DIR="public"
+        - DEPLOY_BRANCH="source"
+
+before_script:
+    - go get -u -v github.com/spf13/hugo
+
+script:
+    - git clone https://github.com/SenjinDarashiva/hugo-uno.git ./themes/hugo-uno
+    - hugo
+
+after_success:
+    - echo "daoyinchuan.com" > ./public/CNAME
+    - ./scripts/deploy.sh

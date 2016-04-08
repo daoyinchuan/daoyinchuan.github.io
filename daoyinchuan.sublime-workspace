@@ -737,9 +737,14 @@
 	},
 	"expanded_folders":
 	[
+		"/Users/stringhamdb/Sandbox/daoyinchuan.github.io",
+		"/Users/stringhamdb/Sandbox/daoyinchuan.github.io/scripts"
 	],
 	"file_history":
 	[
+		"/Users/stringhamdb/Sandbox/daoyinchuan.github.io/config.toml",
+		"/Users/stringhamdb/Sandbox/daoyinchuan.github.io/.travis.yml",
+		"/Users/stringhamdb/Sandbox/daoyinchuan.github.io/scripts/deploy.sh",
 		"/Users/stringhamdb/Sandbox/daoyinchuan.github.io/content/post/welcome.md",
 		"/Users/stringhamdb/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
 		"/Users/stringhamdb/Library/Application Support/Sublime Text 3/Packages/Markdown Preview/MarkdownPreview.sublime-settings",
@@ -864,10 +869,7 @@
 		"/Users/stringhamdb/Sandbox/emris-scaler/src/Scaler/Domain/Services/DomainServicesInterface.php",
 		"/Users/stringhamdb/Library/Mobile Documents/com~apple~CloudDocs/Education/gatech/cs6310/project1/Project One Design Description.md",
 		"/Users/stringhamdb/Downloads/ProjectOne/src/edu/gatech/cs6310/projectOne/repository/ProgramRepository.java",
-		"/Users/stringhamdb/Downloads/ProjectOne/src/edu/gatech/cs6310/projectOne/services/Project1Scheduler.java",
-		"/Users/stringhamdb/Downloads/ProjectOne/src/edu/gatech/cs6310/projectOne/ProjectOne.java",
-		"/Users/stringhamdb/Downloads/ProjectOne/src/edu/gatech/cs6310/projectOne/domain/StudentDemand.java",
-		"/Users/stringhamdb/Downloads/ProjectOne/src/edu/gatech/cs6310/projectOne/domain/Prerequisite.java"
+		"/Users/stringhamdb/Downloads/ProjectOne/src/edu/gatech/cs6310/projectOne/services/Project1Scheduler.java"
 	],
 	"find":
 	{
