@@ -15,4 +15,5 @@ rm -fr *
 cp -R ../daoyinchuan.com/* .
 git add --all
 git commit -m "latest content via travis"
-git push --set-upstream origin source
+git push --set-upstream origin
+rm -fr ../daoyinchuan.com
