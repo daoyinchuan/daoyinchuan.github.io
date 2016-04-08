@@ -1,22 +1,25 @@
+sudo: required
 language: go
-
 go:
-    - "1.5.1"
-
+    - 1.5.1
+os:
+    - linux
 env:
     global:
-        - GIT_NAME="Don B. Stringham"
-        - GIT_EMAIL="donbstringham@gmail.com"
-        - SOURCE_DIR="public"
-        - DEPLOY_BRANCH="source"
-
+        - USER: Don B. Stringham
+        - EMAIL: donbstringham@gmail.com
+        - GH_REF: github.com/daoyinchuan/daoyinchuan.github.io.git
+        - REPO: daoyinchuan.github.io
+        - GH_REPO: github.com/daoyinchuan/${REPO}.git
+        - secure: "71d0d8ea9f262a9f98362f35305b3f4fdd85ae03"
+git:
+    submodules: false
 before_script:
-    - go get -u -v github.com/spf13/hugo
-
-script:
-    - git clone https://github.com/SenjinDarashiva/hugo-uno.git ./themes/hugo-uno
-    - hugo
-
-after_success:
+    - sed -i 's/git@github.com:/https:\/\/github.com\//' .gitmodules
+install:
+    - sudo pip install Pygments
+    - go get github.com/spf13/hugo
     - echo "daoyinchuan.com" > ./public/CNAME
-    - ./scripts/deploy.sh
+    - git clone https://github.com/SenjinDarashiva/hugo-uno.git ./themes/hugo-uno
+script:
+    - bash ./scripts/deploy.sh
