@@ -7,11 +7,11 @@ echo -e "\033[0;32mDeploying content updates to GitHub...\033[0m"
 
 # Build the project.
 git clone https://github.com/SenjinDarashiva/hugo-uno.git ./themes/hugo-uno
+yes | cp ./scripts/sidebar.html ./themes/hugo-uno/layouts/partials/sidebar.html
 mkdir ${TMP_DIR}
 hugo
 cp -R ${CWD_DIR}/public/* ${TMP_DIR}
 cp ${CWD_DIR}/scripts/CNAME ${TMP_DIR}
-cp ${CWD_DIR}/scripts/sidebar.html ${TMP_DIR}/themes/hugo-uno/layouts/partials/sidebar.html
 git stash
 
 git checkout master
