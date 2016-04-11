@@ -8,9 +8,9 @@ echo -e "\033[0;32mDeploying content updates to GitHub...\033[0m"
 # Build the project.
 git clone https://github.com/SenjinDarashiva/hugo-uno.git ./themes/hugo-uno
 yes | cp ./scripts/sidebar.html ./themes/hugo-uno/layouts/partials/sidebar.html
-mkdir ${TMP_DIR}
+mkdir ../daoyinchuan.com
 hugo
-cp -R ${CWD_DIR}/public/* ${TMP_DIR}
+cp -R ${CWD_DIR}/public/* ../daoyinchuan.com
 cp ${CWD_DIR}/scripts/CNAME ${TMP_DIR}
 git stash
 
