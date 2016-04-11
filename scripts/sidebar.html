@@ -61,10 +61,10 @@
                     <div class="navigation-wrapper">
                         <nav class="cover-navigation cover-navigation--primary">
                             <ul class="navigation">
-                                {{ if .Site.Params.about }} <li class="navigation__item"><a href="{{ .Site.BaseURL }}/pages/about" title="link to {{ .Site.Title }} blog" class="blog-button">About</a> </li></br> {{ end }}
-                                <li class="navigation__item"><a href="{{ .Site.BaseURL }}/#blog" title="link to {{ .Site.Title }} blog" class="blog-button">Blog</a> </li></br>
-                                {{ if .Site.Params.links }}<li class="navigation__item"><a href="{{ .Site.BaseURL }}/pages/links" title="link to {{ .Site.Title }} links" class="blog-button">Links</a> </li></br> {{ end }}
-                                {{ if .Site.Params.about }}<li class="navigation__item"><a href="{{ .Site.BaseURL }}/pages/practice" title="link to {{ .Site.Title }} practice" class="blog-button">Our Practice</a> </li></br> {{ end }}
+                                {{ if .Site.Params.about }}<li class="navigation__item"><a href="{{ .Site.Params.about  }}" title="About" class="blog-button">About</a> </li></br> {{ end }}
+                                <li class="navigation__item"><a href="{{ .Site.BaseURL }}#blog" title="link to {{ .Site.Title }} blog" class="blog-button">Blog</a> </li></br>
+                                {{ if .Site.Params.links }}<li class="navigation__item"><a href="{{ .Site.Params.links  }}" title="Links" class="blog-button">Links</a> </li></br> {{ end }}
+                                {{ if .Site.Params.practice }}<li class="navigation__item"><a href="{{ .Site.Params.practice  }}" title="Our Practice" class="blog-button">Our Practice</a> </li></br> {{ end }}
                            </ul>
                         </nav> {{ partial "social.html" . }} </div>
                 </div>
