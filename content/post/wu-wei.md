@@ -1,7 +1,7 @@
 +++
-Categories = ["article", "chuan", "taijiquan"]
+Categories = ["article", "chuan", "taijiquan", "wuwei"]
 Description = "Wu Wei"
-Tags = ["article", "chuan", "taijiquan"]
+Tags = ["article", "chuan", "taijiquan", "wuwei"]
 date = "2009-12-14"
 menu = "main"
 title = "Wu Wei"
