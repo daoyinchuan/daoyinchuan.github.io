@@ -1,9 +1,7 @@
 +++
 Categories = ["qigong"]
-Description = ""
+Description = "Qigong"
 Tags = ["qigong"]
-date = "2016-04-11T17:46:49-06:00"
-menu = "main"
 title = "Qigong"
 +++
 

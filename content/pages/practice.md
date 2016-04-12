@@ -1,6 +1,7 @@
 +++
-Description = "Daoyin Chuan Practices"
-date = "2016-04-07T14:34:48-06:00"
+Categories = ["arts", "practice"]
+Description = "Our Practice"
+Tags = ["arts", "practice"]
 title = "Practice"
 +++
 
@@ -10,14 +11,14 @@ These **three** internal arts create the **triad** of our practice:
     - [Baduanjin]({{< relref "pages/qigong/baduanjin.md" >}})
     - [Yijinjing]({{< relref "pages/qigong/yijinjing.md" >}})
     - [Taiji Chih (Ruler)]({{< relref "pages/qigong/taijichih.md" >}})
-    - Wuji Qigong
-- Yiquan
-    - Wang Xiangzhai (1885-1963)
-- Taijiquan
-    - Dong Yingjie (1898-1961)
+    - [Wuji Qigong]({{< relref "pages/qigong/wujiqigong.md" >}})
+- [Yiquan]({{< relref "pages/yiquan/yiquan.md" >}})
+    - [Wang Xiangzhai (1885-1963)]({{< relref "pages/yiquan/wangxiangzhai.md" >}})
+- [Taijiquan]({{< relref "pages/taijiquan/taijiquan.md" >}})
+    - [Dong Yingjie (1898-1961)]({{< relref "pages/taijiquan/dongyingjie.md" >}})
     - Tui Shou – Fixed and Moving
-    - Da Lu – Big Rollback
-    - San Shou – Partner Form Practice
-    - Broadsword (Dao)
-    - Straight Sword (Jian)
-    - Staff/Spear (Gan)
+    - [Da Lu]({{< relref "pages/taijiquan/dalu.md" >}}) – Big Rollback
+    - [San Shou]({{< relref "pages/taijiquan/sanshou.md" >}}) – Partner Form Practice
+    - [Broadsword (Dao)]({{< relref "pages/taijiquan/dao.md" >}})
+    - [Sword (Jian)]({{< relref "pages/taijiquan/jian.md" >}})
+    - [Staff/Spear (Gan)]({{< relref "pages/taijiquan/gan.md" >}})

@@ -2,8 +2,6 @@
 Categories = ["qigong", "taijichih"]
 Description = "Taiji Ruler"
 Tags = ["qigong", "taijichih"]
-date = "2016-04-11T17:46:49-06:00"
-menu = "main"
 title = "Taiji Ruler"
 +++
 

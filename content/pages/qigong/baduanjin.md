@@ -2,8 +2,6 @@
 Categories = ["qigong", "baduanjin"]
 Description = "The Eight Pieces of the Silk Brocade"
 Tags = ["qigong", "baduanjin"]
-date = "2016-04-11T17:46:49-06:00"
-menu = "main"
 title = "Baduanjin"
 +++
 
