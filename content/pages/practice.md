@@ -6,10 +6,10 @@ title = "Practice"
 
 These **three** internal arts create the **triad** of our practice:
 
-- Qigong
-    - Baduanjin
-    - Yijinjing
-    - Taiji Chih (Ruler)
+- [Qigong]({{< relref "pages/qigong/qigong.md" >}})
+    - [Baduanjin]({{< relref "pages/qigong/baduanjin.md" >}})
+    - [Yijinjing]({{< relref "pages/qigong/yijinjing.md" >}})
+    - [Taiji Chih (Ruler)]({{< relref "pages/qigong/taijichih.md" >}})
     - Wuji Qigong
 - Yiquan
     - Wang Xiangzhai (1885-1963)
