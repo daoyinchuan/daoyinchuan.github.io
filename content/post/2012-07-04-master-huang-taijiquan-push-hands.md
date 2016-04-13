@@ -13,8 +13,6 @@ tags:
 - Taijiquan push-hands
 ---
 
-Here is a YouTube video of Master Huang.
+Here is a video of *Master Huang* doing push-hands:
 
-![YouTube: Master Huang - Tui Shou](http://www.youtube.com/watch?v=Fq0iqL10XdY&hl;=en&hd;=1)
-
-Master Huang
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Fq0iqL10XdY" frameborder="0" allowfullscreen></iframe>
