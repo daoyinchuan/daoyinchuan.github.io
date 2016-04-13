@@ -15,8 +15,6 @@ tags:
 
 Here is a YouTube video of Master Huang.
 
-
-
-[youtube http://www.youtube.com/watch?v=Fq0iqL10XdY&hl;=en&hd;=1]
+![YouTube: Master Huang - Tui Shou](http://www.youtube.com/watch?v=Fq0iqL10XdY&hl;=en&hd;=1)
 
 Master Huang
