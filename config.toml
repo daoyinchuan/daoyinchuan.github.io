@@ -24,6 +24,8 @@ theme = "hugo-uno"
 [Params]
   AuthorName = "Don B. Stringham"
   email = "info@daoyinchuan.com"
+  github = "daoyinchuan"
+  twitter = "daoyinchuan"
   description = "Re-discover your original nature!"
   about = "/pages/about"
   links = "/pages/links"
