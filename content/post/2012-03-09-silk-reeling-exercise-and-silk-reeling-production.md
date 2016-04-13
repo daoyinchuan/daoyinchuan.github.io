@@ -102,6 +102,4 @@ So if you are doing Silk Reeling forms and your level of feeling is steel cable 
 You need to grasp the end of the silk filament first before you can reel silk!
 Hope this helps. Happy practicing everyone!
 
-
-
-[Internal Gong Fu](http://www.feedly.com/home#subscription/feed/http://internalgongfu.blogspot.com/feeds/posts/default) / by Mike at internalgongfu.... / 21 hours ago
+_by Mike at internalgongfu_

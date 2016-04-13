@@ -13,10 +13,4 @@ categories:
 
 You ought to read this blog entry. I found it extremely interesting about how external posture effects internal feelings and states and the reverse.
 
-<!-- more -->
-
 http://www.wildmind.org/blogs/on-practice/keeping-a-level-head-while-meditating
-
-
-
-Posted from WordPress for Android

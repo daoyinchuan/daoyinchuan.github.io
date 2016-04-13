@@ -1,7 +1,7 @@
 ---
 author: donbstringham
 comments: true
-date: 2012-03-30 16:50:06+00:00
+date: 2012-03-29 16:50:06+00:00
 layout: post
 link: https://daoyinchuan.wordpress.com/2012/03/30/muscular-coordination-and-fascial-body-movement/
 slug: muscular-coordination-and-fascial-body-movement
