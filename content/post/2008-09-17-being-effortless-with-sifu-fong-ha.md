@@ -1,9 +1,8 @@
 +++
-Categories = ["article", "chuan", "fongha"]
+Categories = ["fongha", "taijiquan", "qigong", "yiquan"]
 Description = "Being Effortless with Sifu Fong Ha"
-Tags = ["article", "chuan", "fongha"]
+Tags = ["fongha", "taijiquan", "qigong", "yiquan"]
 date = "2008-09-17"
-menu = "main"
 title = "Being Effortless with Sifu Fong Ha"
 +++
 

@@ -30,6 +30,8 @@
                             <li class="navigation__item"><a href="{{ .Site.BaseURL }}#blog" title="link to {{ .Site.Title }} blog" class="blog-button">Blog</a> </li></br>
                             {{ if .Site.Params.links }}<li class="navigation__item"><a href="{{ .Site.Params.links  }}" title="Links" class="blog-button">Links</a> </li></br> {{ end }}
                             {{ if .Site.Params.practice }}<li class="navigation__item"><a href="{{ .Site.Params.practice  }}" title="Our Practice" class="blog-button">Our Practice</a> </li></br> {{ end }}
+                            <li class="navigation__item"><a href="{{ .Site.BaseURL }}categories" title="link to {{ .Site.Title }} categories" class="blog-button">Categories</a> </li></br>
+                            <li class="navigation__item"><a href="{{ .Site.BaseURL }}tags" title="link to {{ .Site.Title }} tags" class="blog-button">Tags</a> </li></br>
                        </ul>
                     </nav> {{ partial "social.html" . }} </div>
             </div>
@@ -65,6 +67,8 @@
                                 <li class="navigation__item"><a href="{{ .Site.BaseURL }}#blog" title="link to {{ .Site.Title }} blog" class="blog-button">Blog</a> </li></br>
                                 {{ if .Site.Params.links }}<li class="navigation__item"><a href="{{ .Site.Params.links  }}" title="Links" class="blog-button">Links</a> </li></br> {{ end }}
                                 {{ if .Site.Params.practice }}<li class="navigation__item"><a href="{{ .Site.Params.practice  }}" title="Our Practice" class="blog-button">Our Practice</a> </li></br> {{ end }}
+                                <li class="navigation__item"><a href="{{ .Site.BaseURL }}categories" title="link to {{ .Site.Title }} categories" class="blog-button">Categories</a> </li></br>
+                                <li class="navigation__item"><a href="{{ .Site.BaseURL }}tags" title="link to {{ .Site.Title }} tags" class="blog-button">Tags</a> </li></br>
                            </ul>
                         </nav> {{ partial "social.html" . }} </div>
                 </div>

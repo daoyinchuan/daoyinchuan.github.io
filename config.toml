@@ -8,10 +8,19 @@ title = "Daoyin Chuan"
 author = "Don B. Stringham"
 copyright = "This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License."
 theme = "hugo-uno"
-
 [indexes]
    category = "categories"
    tag = "tags"
+[[menu.main]]
+    name = "Tags"
+    pre = "<i class='fa fa-road'></i>"
+    weight = -109
+    url = "/tags/"
+[[menu.main]]
+    name = "Categories"
+    pre = "<i class='fa fa-road'></i>"
+    weight = -108
+    url = "/categories/"
 [Params]
   AuthorName = "Don B. Stringham"
   email = "info@daoyinchuan.com"
@@ -21,3 +30,7 @@ theme = "hugo-uno"
   practice = "/pages/practice"
   cover = "/img/background-cover-0.jpg"
   logo = "/img/DaoyinChuanLogo.png"
+[taxonomies]
+    # I wanted to use tags and categories
+    category = "categories"
+    tag = "tags"
