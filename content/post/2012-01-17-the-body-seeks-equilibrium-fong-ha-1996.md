@@ -1,7 +1,7 @@
 ---
 author: donbstringham
 comments: true
-date: 2012-01-13 19:12:22+00:00
+date: 2012-01-17 19:12:22+00:00
 layout: post
 link: https://daoyinchuan.wordpress.com/2012/01/13/the-body-seeks-equilibrium-fong-ha-1996/
 slug: the-body-seeks-equilibrium-fong-ha-1996

@@ -12,7 +12,9 @@ categories:
 - Practice
 ---
 
-![](http://www.wildmind.org/wp-content/uploads/2012/02/Fotolia_37389867_XS-255x381.jpg)Moment to moment, the flows of thoughts and feelings, sensations and desires, and conscious and unconscious processes sculpt your nervous system like water gradually carving furrows and eventually gullies on a hillside. Your brain is continually changing its structure. The only question is: Is it for better or worse?
+<img align="left" src="http://www.wildmind.org/wp-content/uploads/2012/02/Fotolia_37389867_XS-255x381.jpg" />
+
+Moment to moment, the flows of thoughts and feelings, sensations and desires, and conscious and unconscious processes sculpt your nervous system like water gradually carving furrows and eventually gullies on a hillside. Your brain is continually changing its structure. The only question is: Is it for better or worse?
 
 
 

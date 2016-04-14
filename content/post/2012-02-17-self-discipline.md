@@ -38,7 +38,3 @@ As I see it, a key element of developing enough self-discipline in order to chan
 
 
 The connection between "holding onto the One" and "self-discipline" also makes sense of the importance of "[kung fu](http://en.wikipedia.org/wiki/Kung_fu_(term))" in Daoist practice. It doesn't really matter where one puts their dedicated practice---whether it is writing poems, gardening, cooking, making quilts or doing taijiquan. The fact that you have to "hold onto the One" in order to achieve any sort of progress in the art means that you are also treading the path towards realization.
-
-
-
-posted by [the cloudwalking owl ](http://www.blogger.com/profile/12753861683491740903)at [3:39 pm](http://urbanecohermit.blogspot.com/2012/02/self-discipline.html)

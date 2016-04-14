@@ -13,15 +13,7 @@ categories:
 - Practice
 ---
 
-[
-
-####
-
-  from [Classical Tai Chi Blog](http://www.google.com/reader/view/feed/http%3A%2F%2Fclassicaltaichi.blogspot.com%2Ffeeds%2Fposts%2Fdefault?hl=en&at=lY4LxIJtppDiawX8dGi6-w) by Classical Tai Chi of Buffalo](http://classicaltaichi.blogspot.com/2012/01/be-impatient-with-classical-tai-chi-but.html)
-
 [![](http://3.bp.blogspot.com/-LKiVbnZl4qU/Tx1z21vJCWI/AAAAAAAAAZU/x52ITzfX3KM/s320/bilde.jpeg)](http://3.bp.blogspot.com/-LKiVbnZl4qU/Tx1z21vJCWI/AAAAAAAAAZU/x52ITzfX3KM/s1600/bilde.jpeg)
-
-
 
 Enter the New Year by first recognizing then taming your dragons of impatience, frustration and boredom. How do you tame them? Realize that you can't fight them but you can learn to live with them with some equanimity by simply remaining aware from whence they come.
 
@@ -51,15 +43,15 @@ One needs to go through three steps:
 
 
 
-1.Develop internal energy or power through Form practice, so that one can deliver the power at any angle and position.
+1. Develop internal energy or power through Form practice, so that one can deliver the power at any angle and position.
 
 
 
-2.Practice the form such that the ability of delivery becomes instinctive, no need to think.
+2. Practice the form such that the ability of delivery becomes instinctive, no need to think.
 
 
 
-3.Practice push hand and sparing to develop sensitivity and finesse.
+3. Practice push hand and sparing to develop sensitivity and finesse.
 
 
 

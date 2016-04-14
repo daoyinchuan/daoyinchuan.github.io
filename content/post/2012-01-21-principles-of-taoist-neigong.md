@@ -11,10 +11,6 @@ categories:
 - General
 ---
 
-#####
-
-
-
 "The Taoists call the science of how you develop strong energy flow or internal power _neigong_.
 
 
@@ -42,7 +38,4 @@ spine and brain as well as all the body's subtle energy channels.
 14. Learning to develop the capabilities and uses of the body's upper and middle tantiens.
 15. Connecting every part of the physical and other energetic bodies into one, unified energy."
 
-
-
-
-- Bruce Kumar Frantzis, _Dragon and Tiger Qigong_, 2010, xxviii
+~ _Bruce Kumar Frantzis, Dragon and Tiger Qigong, 2010, xxviii_

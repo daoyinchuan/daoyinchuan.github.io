@@ -11,12 +11,6 @@ categories:
 - Practice
 ---
 
-[
-
-####
-
-  by Rick](http://cookdingskitchen.blogspot.com/2011/11/why-practice-slow.html)
-
 [![](http://1.bp.blogspot.com/-Ty843fnqA-s/TjyWQyrKqSI/AAAAAAAABpI/molU0b0pLiA/s400/Way+in+the+Lake.jpg)](http://1.bp.blogspot.com/-Ty843fnqA-s/TjyWQyrKqSI/AAAAAAAABpI/molU0b0pLiA/s1600/Way+in+the+Lake.jpg)
 
 

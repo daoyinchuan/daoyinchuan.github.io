@@ -11,9 +11,6 @@ categories:
 - Practice
 ---
 
-from [chi-kung &laquo; WordPress.com Tag Feed](http://www.google.com/reader/view/feed/http%3A%2F%2Fen.wordpress.com%2Ftag%2Fchi-kung%2Ffeed%2F?hl=en&at=vf-xC0xAorBD7yoe6z3jJg) by Trevor Jacobs
-
-
 Before discussing breathing in Qigong, I’d like to provide a little background. Pareto’s principle is best known in business and economics even though it applies to a many disciplines. A basic way of expressing this principle is:
 
 **80% of the effects comes from 20% of the causes**

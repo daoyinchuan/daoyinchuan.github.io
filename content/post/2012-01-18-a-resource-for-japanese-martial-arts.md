@@ -11,11 +11,7 @@ categories:
 - General
 ---
 
-[
-
-####
-
-  from [Cook Ding's Kitchen](http://www.google.com/reader/view/feed/http%3A%2F%2Fcookdingskitchen.blogspot.com%2Ffeeds%2Fposts%2Fdefault?hl=en&at=8ScN84yWmq0_70JuOlIhVw) by Rick](http://cookdingskitchen.blogspot.com/2012/01/resource-for-japanese-martial-arts.html)
+from [Cook Ding's Kitchen](http://www.google.com/reader/view/feed/http%3A%2F%2Fcookdingskitchen.blogspot.com%2Ffeeds%2Fposts%2Fdefault?hl=en&at=8ScN84yWmq0_70JuOlIhVw) by Rick](http://cookdingskitchen.blogspot.com/2012/01/resource-for-japanese-martial-arts.html)
 
 [![](http://3.bp.blogspot.com/-6BC1vMBITLA/TvJ4Yb7yUhI/AAAAAAAABwg/Op2C1b_kOko/s400/full-moon-photos-part2-7.jpg)](http://3.bp.blogspot.com/-6BC1vMBITLA/TvJ4Yb7yUhI/AAAAAAAABwg/Op2C1b_kOko/s1600/full-moon-photos-part2-7.jpg)
 
