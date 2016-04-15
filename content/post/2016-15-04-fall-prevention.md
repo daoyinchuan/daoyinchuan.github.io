@@ -11,6 +11,9 @@ I have long heard that [Taijiquan](http://www.daoyinchuan.com/pages/taijiquan/ta
 
 > When he is born, man is soft and weak; in death he becomes stiff and hard. The ten thousand creatures and all plants and trees while they are alive are supple and soft, but when and dead they become brittle and dry. Truly, what is stiff and hard is a “companion of death”; what is soft and weak is a “companion of life”. Therefore “the weapon that is too hard will be broken, the tree that has the hardest wood will be cut down”. Truly, the hard and mighty are cast down; the soft and weak set on high.
 
+Listed below are scholarly articles about research into fall prevention and how
+Taijiquan can help.  Enjoy:
+
 *   [Article 1](http://www.sciencedirect.com/science/article/pii/S2095254613000938)
 *   [Article 2](http://www.iofbonehealth.org/news/tai-chi-can-help-improve-balance-prevent-falls)
 *   [Article 3](http://www.health.harvard.edu/staying-healthy/the-health-benefits-of-tai-chi)
