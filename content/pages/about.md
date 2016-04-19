@@ -9,3 +9,5 @@ title = "About Us"
 > [(Sifu Fong Ha)]({{< relref "pages/fongha.md" >}})
 
 The Daoyin Chuan Study Group was organized in August of 1998 for the purpose of providing an environment for people to explore and practice the Chinese Internal Martial Arts and Qigong. Currently the group meets in the South Davis County and Salt Lake City areas.
+
+In class, you will learn **Meditation** (_stillness_), **Qigong** (_cultivation of Qi_), **Yiquan** (_mind-intent development_), **Tai Chi** (_moving meditation_) and **Push Hands** (_sensitivity development_).
