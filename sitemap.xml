@@ -2,22 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://daoyinchuan.github.io/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
     <lastmod>2021-04-27T11:42:25-06:00</lastmod>
   </url><url>
-    <loc>https://daoyinchuan.github.io/practice/</loc>
+    <loc>http://localhost:1313/practice/</loc>
     <lastmod>2021-04-27T11:42:25-06:00</lastmod>
   </url><url>
-    <loc>https://daoyinchuan.github.io/fongha/</loc>
+    <loc>http://localhost:1313/fongha/</loc>
     <lastmod>2021-04-27T11:42:25-06:00</lastmod>
   </url><url>
-    <loc>https://daoyinchuan.github.io/links/</loc>
+    <loc>http://localhost:1313/links/</loc>
     <lastmod>2021-04-27T11:42:25-06:00</lastmod>
   </url><url>
-    <loc>https://daoyinchuan.github.io/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://daoyinchuan.github.io/</loc>
+    <loc>http://localhost:1313/</loc>
   </url><url>
-    <loc>https://daoyinchuan.github.io/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>
