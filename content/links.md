@@ -4,7 +4,7 @@ date: 2021-04-27T11:42:25-06:00
 weight: 8
 ---
 
-### Sifu Fong Ha Students
+### Dàshī Fong Ha Students
 
 - [Jan Diepersloot (Walnut Creek, CA)](http://www.warriorsofstillness.com)
 - [Michael Mayer (San Francisco, CA)](http://www.bodymindhealing.com)
@@ -14,7 +14,7 @@ weight: 8
 
 ### Links
 
-- [Sifu Fong Ha (Berkley, CA)](http://fongha.com)
+- [Dàshī Fong Ha (Berkley, CA)](http://fongha.com)
 - [Fong Ha’s Yiquan: More than a martial art, Part 1](http://theeffortlessway.wordpress.com/2009/03/15/fong-has-yiquan-more-than-a-martial-art-pt-i)
 - [Fong Ha’s Yiquan: More than a martial art, Part 2](http://theeffortlessway.wordpress.com/2009/03/20/fong-has-yiquan-more-than-a-martial-art-ptii)
 

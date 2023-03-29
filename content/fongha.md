@@ -1,5 +1,5 @@
 ---
-title: "Sifu Fong Ha"
+title: "Dàshī Fong Ha"
 date: 2021-04-27T11:42:25-06:00
 image: "images/fongpic.jpg"
 weight: 8
@@ -7,24 +7,24 @@ weight: 8
 
 > Sifu Fong Ha has been practicing Chinese internal arts since his childhood and has studied with many renowned teachers. He began his studies of Yang-style Taijiquan in 1953 with Tung Ying-chieh, and continued with Yang Sau-chung, the eldest son of Yang Cheng-fu. Fong's exploration then led into the realm of I Ch'uan. One of the few I Ch'uan teachers in the West, Fong Ha is well known for his power, graciousness, and cosmopolitan charm. With humor and insight, he encourages students to be true to themselves, to recognize their inner strengths, develop at their own pace, and actualize their potentials. He directs the Integral Chuan Institute in Berkeley, California and teaches nationally and internationally. He is the author of Yiquan and the Nature of Energy: The fine art of doing nothing and achieving everything (Berkeley: Summerhouse Publications, 1996). He also produced the video, Stillness in Movement: The Practice of T'ai Chi Chuan with Master Fong Ha (Vision Arts Video, 1996)
 
-**Stand for Peace ~ Move for Joy**
+### Stand for Peace ~ Move for Joy
 
-### Eulogy
+## Eulogy
 
 ![Fong Ha](https://www.fongha.com/wp-content/uploads/2015/06/Fong-Ha-Tree.jpg)
 
 > He leapt from his shoes.
 > Mounted a dragon.
 > Now soars among the heavens.
-
+---
 > Do Nothing — Achieve Everything
-
+---
 > At the end of technique is skill... at the end of skill is spirituality.
-
+---
 > Don't move the body, you train your Qi.
 > Don't move your mind, you train your Spirit.
 
-#### Grand thoughts and principles of a great teacher
+### Grand thoughts and principles of a great teacher
 
 Grandmaster/Dashi/LaoSi/Sifu Ha,CheungFong or Fong Ha (or just Fong as he frequently wanted to be called) was born and raised in Canton, China in or around 1937. In 1947, the family then moved to Hong Kong where he had a happy life there. Ha Sifu studied in a well-known Catholic school, took private lessons of Kung Fu, and started his T'ai Chi practice at the age of 16, studying with well renowned teachers. He also practiced Chinese calligraphy which he continued well into his late life.
 
@@ -46,15 +46,15 @@ Simu/Sifu Micheline Bogey-Ha and Sifu Bruce Wolfe
 
 ![ICI](https://www.fongha.com/wp-content/uploads/2015/06/Fong-Ha-Logo.png)
 
-#### Videos of the late Sifu Fong Ha
+### Videos of the late Dàshī Fong Ha
 
 - [Fong Ha - 8 Pieces of Brocade](https://youtu.be/mFCiwzMCJc4)
-- [Sifu Fong Ha - In Action](https://youtu.be/bK8U5YIuwUA)
-- [Sifu Fong Ha - Finding Your Own Path](https://youtu.be/_RCDenZi8LE)
-- [Sifu Fong Ha - The Opening for Spirituality](https://youtu.be/Bef9eIswOeg)
-- [Sifu Fong Ha - Touching the Sacred in Everyday Life](https://youtu.be/QuIsWOh8tUw)
-- [Sifu Fong Ha - The Essence of Practice](https://youtu.be/jegh3MrsqxM)
-- [Yang Style Taiji - Effortlessly Sifu Fong Ha](https://youtu.be/5Au8oaDw72o)
+- [Dàshī Fong Ha - In Action](https://youtu.be/bK8U5YIuwUA)
+- [Dàshī Fong Ha - Finding Your Own Path](https://youtu.be/_RCDenZi8LE)
+- [Dàshī Fong Ha - The Opening for Spirituality](https://youtu.be/Bef9eIswOeg)
+- [Dàshī Fong Ha - Touching the Sacred in Everyday Life](https://youtu.be/QuIsWOh8tUw)
+- [Dàshī Fong Ha - The Essence of Practice](https://youtu.be/jegh3MrsqxM)
+- [Yang Style Taiji - Effortlessly Dàshī Fong Ha](https://youtu.be/5Au8oaDw72o)
 
 ---
 
@@ -64,16 +64,16 @@ Simu/Sifu Micheline Bogey-Ha and Sifu Bruce Wolfe
 
 ![Fong Ha & Don in 1998](images/fong-don.jpg)
 
-> Sifu Fong Ha's first workshop in Salt Lake City, Utah was February 1999.  Here are some pics from that workshop:
+> Dàshī Fong Ha's first workshop in Salt Lake City, Utah was February 1999.  Here are some pics from that workshop:
 
 ![Fong Ha & Students](images/FongHa_First_Utah_Workshop_1999.jpg)
 
-> Many of the students with Sifu Fong Ha.
+> Many of the students with Dàshī Fong Ha.
 
 ![Fong Ha, Don, Jenny and Baby Emma](images/Fong_Don_Jenny_Emma_1999.jpg)
 
-> Sifu Fong Ha, Don, Jenny and Baby Emma.
+> Dàshī Fong Ha, Don, Jenny and Baby Emma.
 
 ![Fong Ha & Student](images/FongHa_Student_1999.jpg)
 
-> Sifu Fong Ha and student.
+> Dàshī Fong Ha and student.
