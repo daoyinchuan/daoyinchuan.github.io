@@ -10,7 +10,6 @@ weight: 8
 - [Michael Mayer (San Francisco, CA)](http://www.bodymindhealing.com)
 - [Marek Wajsman (Jersusalem, Israel)](http://www.taichiway.net)
 - [The Effortless Way (Spokane, WA)](http://theeffortlessway.wordpress.com)
-- [Kenneth Cohen (Nederland, CO)](http://www.qigonghealing.com)
 
 ### Links
 
