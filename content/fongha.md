@@ -77,3 +77,9 @@ Simu/Sifu Micheline Bogey-Ha and Sifu Bruce Wolfe
 ![Fong Ha & Student](images/FongHa_Student_1999.jpg)
 
 > Sifu Fong Ha and student.
+
+### Sifu Fong Ha with Teachers
+
+![Sifu Fong Ha w/ Han Xingyuan](images/fongha_hansinyuan.jpeg)
+
+![Sifu Fong Ha w/ Cai Songfang](images/fongha_caisongfang.jpeg)
