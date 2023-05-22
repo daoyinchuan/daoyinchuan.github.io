@@ -9,6 +9,8 @@ weight: 8
 
 ### Stand for Peace ~ Move for Joy
 
+**ANNOUNCEMENT**: A new podcast series is in the works that will cover the teachings that Sifu Fong Ha shared at his Salt Lake City workshops.
+
 ## Eulogy
 
 ![Fong Ha](https://www.fongha.com/wp-content/uploads/2015/06/Fong-Ha-Tree.jpg)
