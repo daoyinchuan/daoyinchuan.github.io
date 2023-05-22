@@ -37,4 +37,4 @@ These three internal arts create a triad of our practice:
 
 > A mind that is free and at peace will recognize immediately either a kindness or an aggression, correctly interpreting and responding appropriately at once to any touch, whether that touch is physical, mental, or spiritual. In this sense our practice is a martial art; our goal is to increase our sensitivity to and awareness of outside forces that affect us physically, mentally, or spiritually. The cultivation of ch'i enhances our alertness, agility, and sensitivity.
 
-~ Dàshī Fong Ha (1937-2019)
+~ Sifu Fong Ha (1937-2019)
