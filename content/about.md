@@ -15,4 +15,20 @@ You will learn **Meditation** (stillness), **Qigong** (cultivation of Qi), **Yiq
 
 ### Questions?
 
-donbstringham at icloud dot com
+{{< rawhtml >}}
+<form
+  action="https://formspree.io/f/mlekkjvq"
+  method="POST"
+>
+  <label>
+    Your email:
+    <input type="email" name="email">
+  </label>
+  <label>
+    Your message:
+    <textarea name="message"></textarea>
+  </label>
+  <!-- your other form fields go here -->
+  <button type="submit">Send</button>
+</form>
+{{< /rawhtml >}}
