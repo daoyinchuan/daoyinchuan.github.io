@@ -2,7 +2,7 @@
 title: "Our Practice"
 date: 2021-04-27T11:42:25-06:00
 image: "images/sandyinyang.jpg"
-weight: 8
+weight: 4
 ---
 
 ### Our Practice

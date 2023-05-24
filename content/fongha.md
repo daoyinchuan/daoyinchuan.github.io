@@ -2,18 +2,14 @@
 title: "Sifu Fong Ha"
 date: 2021-04-27T11:42:25-06:00
 image: "images/fongpic.jpg"
-weight: 8
+weight: 7
 ---
 
 > Sifu Fong Ha has been practicing Chinese internal arts since his childhood and has studied with many renowned teachers. He began his studies of Yang-style Taijiquan in 1953 with Tung Ying-chieh, and continued with Yang Sau-chung, the eldest son of Yang Cheng-fu. Fong's exploration then led into the realm of I Ch'uan. One of the few I Ch'uan teachers in the West, Fong Ha is well known for his power, graciousness, and cosmopolitan charm. With humor and insight, he encourages students to be true to themselves, to recognize their inner strengths, develop at their own pace, and actualize their potentials. He directs the Integral Chuan Institute in Berkeley, California and teaches nationally and internationally. He is the author of Yiquan and the Nature of Energy: The fine art of doing nothing and achieving everything (Berkeley: Summerhouse Publications, 1996). He also produced the video, Stillness in Movement: The Practice of T'ai Chi Chuan with Master Fong Ha (Vision Arts Video, 1996)
 
 ### Stand for Peace ~ Move for Joy
 
-**ANNOUNCEMENT**: A new podcast series is in the works that will cover the teachings that Sifu Fong Ha shared at his Salt Lake City workshops.
-
 ## Eulogy
-
-![Fong Ha](https://www.fongha.com/wp-content/uploads/2015/06/Fong-Ha-Tree.jpg)
 
 > He leapt from his shoes.
 > Mounted a dragon.
@@ -40,7 +36,7 @@ He had an impact over his lifetime, and continues to have impact on many people 
 
 Family was very important to Ha Sifu, not just his personal family but his students also were part of his family. You really felt that you were walking the path of the Tao with him, side by side, moment to moment, guided by his very grounded presence and his gentle awareness. This would become the focal point of his teachings, awareness of your breath, your standing meditation, of your interconnectedness through the push hands practice, and it became the practice of its ongoing spiritual awakening. We all are better human beings and souls because of him. May we continue to be inspired by his presence and teachings upon our lives.
 
-On behalf of the Ha Family and the Integral Ch'uan Institute family of teachers, students and practitioners worldwide
+On behalf of the Ha Family and the Integral Ch'uan Institute family of teachers, students and practitioners worldwide,
 
 Simu/Sifu Micheline Bogey-Ha and Sifu Bruce Wolfe
 

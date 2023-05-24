@@ -1,15 +1,14 @@
 ---
-title: "Students"
+title: "Links"
 date: 2021-04-27T11:42:25-06:00
-weight: 8
+weight: 9
 ---
 
-### Sifu Fong Ha's Students
+### Steal His Art: Teachings of Sifu Fong Ha Podcast
 
-- [Jan Diepersloot (Walnut Creek, CA)](http://www.warriorsofstillness.com)
-- [Michael Mayer (San Francisco, CA)](http://www.bodymindhealing.com)
-- [Marek Wajsman (Jersusalem, Israel)](http://www.taichiway.net)
-- [The Effortless Way (Spokane, WA)](http://theeffortlessway.wordpress.com)
+{{< rawhtml >}}
+<iframe src="https://podcasters.spotify.com/pod/show/steal-his-art" height="775" width="400px" frameborder="0" scrolling="yes"></iframe>
+{{< /rawhtml >}}
 
 ### Links
 
@@ -19,10 +18,17 @@ weight: 8
 
 ### Video Links
 
-- [Master Fong Ha - on Yiquan](https://vimeo.com/436349650)
+- [Master Fong Ha on Yiquan](https://vimeo.com/436349650)
 - [Grandmaster Fong Ha in Israel 1995](https://vimeo.com/365591059)
 - [Grandmaster Fong Ha in Israel](https://vimeo.com/365590606)
 - [Grandmaster Fong Ha about balance](https://vimeo.com/365590606)
 - [Tu'i Shou With Sifu Fong Ha Greece 2006](https://www.youtube.com/watch?v=cvJ5M0UM3sI)
 - [Tai Chi and Qigong Retreat with Sifu Fong Ha Israel 2010](https://www.youtube.com/watch?v=J66ZgTTU2Tk)
 - [The essence of practice - Sifu Fong Ha](https://www.youtube.com/watch?v=jegh3MrsqxM)
+
+### Sifu Fong Ha's Students
+
+- [Jan Diepersloot (Walnut Creek, CA)](http://www.warriorsofstillness.com)
+- [Michael Mayer (San Francisco, CA)](http://www.bodymindhealing.com)
+- [Marek Wajsman (Jersusalem, Israel)](http://www.taichiway.net)
+- [The Effortless Way (Spokane, WA)](http://theeffortlessway.wordpress.com)
