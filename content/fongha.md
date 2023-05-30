@@ -58,26 +58,26 @@ Simu/Sifu Micheline Bogey-Ha and Sifu Bruce Wolfe
 
 ### Don Stringham
 
-> I originally met Sifu Fong Ha in 1997 and in person in 1998 at his home in Berkley, CA.  Previously, I had been searching for a teacher who had learned Taijiquan in China.  I picked up the book [Warriors of Stillness](https://www.amazon.com/Warriors-Stillness-Meditative-Traditions-Chinese/dp/B009BJ9FP2/ref=sr_1_8?crid=3GXUSGE7O5NMJ&keywords=jan+diepersloot&qid=1639503539&sprefix=jan+die%2Caps%2C181&sr=8-8) and saw a picture of Dàshī Fong Ha and knew I needed to meet him.  Researching on the internet I was able to find his cell number and reached out to him.  He first taught me _Wuji Standing_ and _Taiji Ruler_.  The following year and every year after that he came to Salt Lake City, UT and gave two day workshops.  Truly, I will always miss my mentor and teacher.
+> I originally met Sifu Fong Ha in 1997 and in person the following year in Berkley, CA. Before I share how I came to have met my mentor and teacher, a little background first. I started learning and practicing Taijiquan around the age of twelve or thirteen in Michigan. Over the following decades I had trained with various teachers in California and Utah. They had helped me lay a good foundation in the art but I had been searching for a teacher who had learned Taijiquan in China and a form that was a reputable and renowned family style. Hopefully, from a renowned master as well. One day, during lunch, I was wandering around a Border's bookstore browsing in the martial arts section. A book caught my eye because of its strange title, the [Warriors of Stillness](https://www.amazon.com/Warriors-Stillness-Meditative-Traditions-Chinese/dp/B009BJ9FP2/ref=sr_1_8?crid=3GXUSGE7O5NMJ&keywords=jan+diepersloot&qid=1639503539&sprefix=jan+die%2Caps%2C181&sr=8-8). I picked it up and started thumbing through it and saw a picture of Sifu Fong Ha. At that moment I had a strong intuition and knew that I needed to meet and hopefully train with him. I purchased the book and started researching on the web.  Luckily, I was able to find his cell phone number and reached out to him. During training at the Qigong Institute in San Francisco, Sifu Fong Ha graciously invited me to lunch and afterwards to his home. There he first taught me _Wuji Standing_ and _Taiji Ruler_. The following year and every year after that I invited and hosted him in Salt Lake City, UT for two day workshops. I also returned to Berkley, CA many times as well to train with him. What I didn't realize at first was that he had studied with many reputable and renowned masters of the Yang Family style as well as Yiquan.  In Sifu Fong Ha, I had discovered a true treasure. Truly, I will always miss deeply my mentor and teacher.
 
-![Fong Ha & Don in 1998](images/fong-don.jpg)
+![Sifu Fong Ha & Don in 1998](images/fong-don.jpg)
 
 > Sifu Fong Ha's first workshop in Salt Lake City, Utah was February 1999.  Here are some pics from that workshop:
 
-![Fong Ha & Students](images/FongHa_First_Utah_Workshop_1999.jpg)
+![Sifu Fong Ha & Students](images/FongHa_First_Utah_Workshop_1999.jpg)
 
 > Many of the students with Sifu Fong Ha.
 
-![Fong Ha, Don, Jenny and Baby Emma](images/Fong_Don_Jenny_Emma_1999.jpg)
+![Sifu Fong Ha, Don, Jenny and Baby Emma](images/Fong_Don_Jenny_Emma_1999.jpg)
 
 > Sifu Fong Ha, Don, Jenny and Baby Emma.
 
-![Fong Ha & Student](images/FongHa_Student_1999.jpg)
+![Sifu Fong Ha & Student](images/FongHa_Student_1999.jpg)
 
 > Sifu Fong Ha and student.
 
 ### Sifu Fong Ha with Teachers
 
-![Sifu Fong Ha w/ Han Xingyuan](images/fongha_hansinyuan.jpeg)
+![Sifu Fong Ha w/ Sifu Han Xingyuan](images/fongha_hansinyuan.jpeg)
 
-![Sifu Fong Ha w/ Cai Songfang](images/fongha_caisongfang.jpeg)
+![Sifu Fong Ha w/ Sifu Cai Songfang](images/fongha_caisongfang.jpeg)
