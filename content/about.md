@@ -17,8 +17,11 @@ You will learn **Meditation** (stillness), **Qigong** (cultivation of Qi), **Yiq
 
 Available on:
 
-- [Spotify](https://open.spotify.com/show/1SnqK4o0YYxufVcFgzazOv)
-- [Apple Podcasts](https://podcasts.apple.com/us/podcast/steal-his-art-teachings-of-sifu-fong-ha/id1689303099)
+- [Spotify](https://open.spotify.com/show/1q1KJmBDgWV5GxKCqhfqWs)
+- [Apple Podcasts]()
+- [Amazon Podcasts]()
+- [Google Podcasts]()
+- [RSS Feed](https://anchor.fm/s/e288fb20/podcast/rss)
 
 ### Questions?
 
