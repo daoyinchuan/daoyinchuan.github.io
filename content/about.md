@@ -20,7 +20,6 @@ Available on:
 - [Spotify](https://open.spotify.com/show/1SnqK4o0YYxufVcFgzazOv)
 - [Apple Podcasts](https://podcasts.apple.com/us/podcast/steal-his-art-teachings-of-sifu-fong-ha/id1689303099)
 
-
 ### Questions?
 
 {{< rawhtml >}}
