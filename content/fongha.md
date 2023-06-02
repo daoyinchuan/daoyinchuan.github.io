@@ -1,11 +1,11 @@
 ---
-title: "Sifu Fong Ha"
+title: "Dàshī Fong Ha"
 date: 2021-04-27T11:42:25-06:00
 image: "images/fongpic.jpg"
 weight: 7
 ---
 
-> Sifu Fong Ha has been practicing Chinese internal arts since his childhood and has studied with many renowned teachers. He began his studies of Yang-style Taijiquan in 1953 with Tung Ying-chieh, and continued with Yang Sau-chung, the eldest son of Yang Cheng-fu. Fong's exploration then led into the realm of I Ch'uan. One of the few I Ch'uan teachers in the West, Fong Ha is well known for his power, graciousness, and cosmopolitan charm. With humor and insight, he encourages students to be true to themselves, to recognize their inner strengths, develop at their own pace, and actualize their potentials. He directs the Integral Chuan Institute in Berkeley, California and teaches nationally and internationally. He is the author of Yiquan and the Nature of Energy: The fine art of doing nothing and achieving everything (Berkeley: Summerhouse Publications, 1996). He also produced the video, Stillness in Movement: The Practice of T'ai Chi Chuan with Master Fong Ha (Vision Arts Video, 1996)
+> Dàshī Fong Ha has been practicing Chinese internal arts since his childhood and has studied with many renowned teachers. He began his studies of Yang-style Taijiquan in 1953 with Tung Ying-chieh, and continued with Yang Sau-chung, the eldest son of Yang Cheng-fu. Fong's exploration then led into the realm of I Ch'uan. One of the few I Ch'uan teachers in the West, Fong Ha is well known for his power, graciousness, and cosmopolitan charm. With humor and insight, he encourages students to be true to themselves, to recognize their inner strengths, develop at their own pace, and actualize their potentials. He directs the Integral Chuan Institute in Berkeley, California and teaches nationally and internationally. He is the author of Yiquan and the Nature of Energy: The fine art of doing nothing and achieving everything (Berkeley: Summerhouse Publications, 1996). He also produced the video, Stillness in Movement: The Practice of T'ai Chi Chuan with Master Fong Ha (Vision Arts Video, 1996)
 
 ### Stand for Peace ~ Move for Joy
 
@@ -44,7 +44,7 @@ Simu/Sifu Micheline Bogey-Ha and Sifu Bruce Wolfe
 
 ![ICI](https://www.fongha.com/wp-content/uploads/2015/06/Fong-Ha-Logo.png)
 
-### Videos of the late Sifu Fong Ha
+### Videos of the late Dàshī Fong Ha
 
 - [Fong Ha - 8 Pieces of Brocade](https://youtu.be/mFCiwzMCJc4)
 - [Sifu Fong Ha - In Action](https://youtu.be/bK8U5YIuwUA)
@@ -56,28 +56,28 @@ Simu/Sifu Micheline Bogey-Ha and Sifu Bruce Wolfe
 
 ---
 
-### Don Stringham
+### Sifu Don Stringham
 
-> I originally met Sifu Fong Ha in 1997 and in person the following year in Berkley, CA. Before I share how I came to have met my mentor and teacher, a little background first. I started learning and practicing Taijiquan around the age of twelve or thirteen in Michigan. Over the following decades I had trained with various teachers in California and Utah. They had helped me lay a good foundation in the art but I had been searching for a teacher who had learned Taijiquan in China and a form that was a reputable and renowned family style. Hopefully, from a renowned master as well. One day, during lunch, I was wandering around a Border's bookstore browsing in the martial arts section. A book caught my eye because of its strange title, the [Warriors of Stillness](https://www.amazon.com/Warriors-Stillness-Meditative-Traditions-Chinese/dp/B009BJ9FP2/ref=sr_1_8?crid=3GXUSGE7O5NMJ&keywords=jan+diepersloot&qid=1639503539&sprefix=jan+die%2Caps%2C181&sr=8-8). I picked it up and started thumbing through it and saw a picture of Sifu Fong Ha. At that moment I had a strong intuition and knew that I needed to meet and hopefully train with him. I purchased the book and started researching on the web.  Luckily, I was able to find his cell phone number and reached out to him. During training at the Qigong Institute in San Francisco, Sifu Fong Ha graciously invited me to lunch and afterwards to his home. There he first taught me _Wuji Standing_ and _Taiji Ruler_. The following year and every year after that I invited and hosted him in Salt Lake City, UT for two day workshops. I also returned to Berkley, CA many times as well to train with him. What I didn't realize at first was that he had studied with many reputable and renowned masters of the Yang Family style as well as Yiquan.  In Sifu Fong Ha, I had discovered a true treasure. Truly, I will always miss deeply my mentor and teacher.
+> I originally met Dàshī Fong Ha in 1997 and in person the following year in Berkley, CA. Before I share how I came to have met my mentor and teacher, a little background first. I started learning and practicing Taijiquan around the age of twelve or thirteen in Michigan. Over the following decades I had trained with various teachers in California and Utah. They had helped me lay a good foundation in the art but I had been searching for a teacher who had learned Taijiquan in China and a form that was a reputable and renowned family style. Hopefully, from a renowned master as well. One day, during lunch, I was wandering around a Border's bookstore browsing in the martial arts section. A book caught my eye because of its strange title, the [Warriors of Stillness](https://www.amazon.com/Warriors-Stillness-Meditative-Traditions-Chinese/dp/B009BJ9FP2/ref=sr_1_8?crid=3GXUSGE7O5NMJ&keywords=jan+diepersloot&qid=1639503539&sprefix=jan+die%2Caps%2C181&sr=8-8). I picked it up and started thumbing through it and saw a picture of Dàshī Fong Ha. At that moment I had a strong intuition and knew that I needed to meet and hopefully train with him. I purchased the book and started researching on the web.  Luckily, I was able to find his cell phone number and reached out to him. During training at the Qigong Institute in San Francisco, Sifu Fong Ha graciously invited me to lunch and afterwards to his home. There he first taught me _Wuji Standing_ and _Taiji Ruler_. The following year and every year after that I invited and hosted him in Salt Lake City, UT for two day workshops. I also returned to Berkley, CA many times as well to train with him. What I didn't realize at first was that he had studied with many reputable and renowned masters of the Yang Family style as well as Yiquan.  In Dàshī Fong Ha, I had discovered a true treasure. Truly, I will always miss deeply my mentor and teacher.
 
-![Sifu Fong Ha & Don in 1998](images/fong-don.jpg)
+![Dàshī Fong Ha & Sifu Don in 1998](images/fong-don.jpg)
 
-> Sifu Fong Ha's first workshop in Salt Lake City, Utah was February 1999.  Here are some pics from that workshop:
+> Dàshī Fong Ha's first workshop in Salt Lake City, Utah was February 1999.  Here are some pics from that workshop:
 
-![Sifu Fong Ha & Students](images/FongHa_First_Utah_Workshop_1999.jpg)
+![Dàshī Fong Ha & Students](images/FongHa_First_Utah_Workshop_1999.jpg)
 
-> Many of the students with Sifu Fong Ha.
+> Students with Dàshī Fong Ha.
 
-![Sifu Fong Ha, Don, Jenny and Baby Emma](images/Fong_Don_Jenny_Emma_1999.jpg)
+![Dàshī Fong Ha, Sifu Don, Jenny and Baby Emma](images/Fong_Don_Jenny_Emma_1999.jpg)
 
-> Sifu Fong Ha, Don, Jenny and Baby Emma.
+> Dàshī Fong Ha, Sifu Don, Jenny and Baby Emma.
 
-![Sifu Fong Ha & Student](images/FongHa_Student_1999.jpg)
+![Dàshī Fong Ha & Student](images/FongHa_Student_1999.jpg)
 
-> Sifu Fong Ha and student.
+> Dàshī Fong Ha and student.
 
-### Sifu Fong Ha with Teachers
+### Dàshī Fong Ha with his Teachers
 
-![Sifu Fong Ha w/ Sifu Han Xingyuan](images/fongha_hansinyuan.jpeg)
+![Dàshī Fong Ha w/ Dàshī Han Xingyuan](images/fongha_hansinyuan.jpeg)
 
-![Sifu Fong Ha w/ Sifu Cai Songfang](images/fongha_caisongfang.jpeg)
+![Dàshī Fong Ha w/ Dàshī Cai Songfang](images/fongha_caisongfang.jpeg)

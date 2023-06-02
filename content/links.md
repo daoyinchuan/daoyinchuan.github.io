@@ -4,7 +4,7 @@ date: 2021-04-27T11:42:25-06:00
 weight: 9
 ---
 
-### Steal His Art: Teachings of Sifu Fong Ha Podcast
+### Steal His Art: Teachings of Dàshī Fong Ha Podcast
 
 {{< rawhtml >}}
 <iframe src="https://podcasters.spotify.com/pod/show/steal-his-art" height="775" width="400px" frameborder="0" scrolling="yes"></iframe>
@@ -12,7 +12,7 @@ weight: 9
 
 ### Links
 
-- [Sifu Fong Ha (Berkley, CA)](http://fongha.com)
+- [Dàshī Fong Ha (Berkley, CA)](http://fongha.com)
 - [Fong Ha’s Yiquan: More than a martial art, Part 1](http://theeffortlessway.wordpress.com/2009/03/15/fong-has-yiquan-more-than-a-martial-art-pt-i)
 - [Fong Ha’s Yiquan: More than a martial art, Part 2](http://theeffortlessway.wordpress.com/2009/03/20/fong-has-yiquan-more-than-a-martial-art-ptii)
 
