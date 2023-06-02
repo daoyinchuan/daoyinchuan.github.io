@@ -13,6 +13,14 @@ Daoyin Chuan, was organized in August of 1998, to provide the opportunity and en
 
 You will learn **Meditation** (stillness), **Qigong** (cultivation of Qi), **Yiquan** (mind-intent development), **Taijiquan** (moving meditation) and **Push Hands** (sensitivity development).
 
+### Steal His Art: Teachings of Dàshī Fong Ha Podcast
+
+Available on:
+
+- [Spotify](https://open.spotify.com/show/1SnqK4o0YYxufVcFgzazOv)
+- [Apple Podcasts](https://podcasts.apple.com/us/podcast/steal-his-art-teachings-of-sifu-fong-ha/id1689303099)
+
+
 ### Questions?
 
 {{< rawhtml >}}
