@@ -15,12 +15,14 @@ You will learn **Meditation** (stillness), **Qigong** (cultivation of Qi), **Yiq
 
 ### Steal His Art: Teachings of Dàshī Fong Ha Podcast
 
+![Podcast Postcard](images/podcast_postcard.png)
+
 Available on:
 
 - [Spotify](https://open.spotify.com/show/1q1KJmBDgWV5GxKCqhfqWs)
-- [Apple Podcasts]()
-- [Amazon Podcasts]()
-- [Google Podcasts]()
+- [Apple Podcasts](https://podcasts.apple.com/us/podcast/steal-his-art-teachings-of-d%C3%A0sh%C4%AB-fong-ha/id1690890075)
+- [Amazon Podcasts](https://music.amazon.com/podcasts/37c33053-2ab5-4840-a621-4e5416782c48/steal-his-art-teachings-of-dàshī-fong-ha)
+- [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy9lMjg4ZmIyMC9wb2RjYXN0L3Jzcw)
 - [RSS Feed](https://anchor.fm/s/e288fb20/podcast/rss)
 
 ### Questions?
