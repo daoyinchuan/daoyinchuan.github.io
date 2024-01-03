@@ -7,7 +7,8 @@ weight: 9
 ### Steal His Art: Teachings of Dàshī Fong Ha Podcast
 
 {{< rawhtml >}}
-<iframe src="https://podcasters.spotify.com/pod/show/steal-his-art" height="775" width="400px" frameborder="0" scrolling="yes"></iframe>
+
+<iframe src="https://podcasters.spotify.com/pod/show/stealhisart" height="775" width="400px" frameborder="0" scrolling="yes"></iframe>
 {{< /rawhtml >}}
 
 ### Links

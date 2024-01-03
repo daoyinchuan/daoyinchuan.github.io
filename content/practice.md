@@ -12,7 +12,7 @@ These three internal arts create a triad of our practice:
 - Qigong
   - Baduanjin
   - Yijinjing
-  - Taiji Chih (Ruler)
+  - [Taiji Chih](/misc/#taiji-ruler) (Ruler)
   - Wuji Qigong (Cai Songfang)
 - Yiquan
   - Wang Xiangzhai (1885-1963)
