@@ -51,3 +51,5 @@ During the summers of 1976 and 1977, Sifu Han lived and practiced with Sifu Fong
 5. breath work
 6. tui shou
 7. san shou
+
+![Fong Ha](/images/fong_stand.png)
