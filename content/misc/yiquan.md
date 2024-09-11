@@ -1,7 +1,8 @@
 ---
 title: "Yiquan"
-date: 2024-09-11T11:42:25-06:00
-image: "../images/yiquan.jpg"
+date: 2024-09-11T10:59:11-06:00
+image: "../images/wangxiang.jpg"
+draft: false
 weight: 5
 ---
 
@@ -31,10 +32,6 @@ But this is the essence of I-Ch’uan. Through these deceptively simple practice
 
 Wang Xiangzhai’s students were winning or placing in full-contact tournaments. He was teaching zhan zhuang and martial arts exercises in the parks. Through zhan zhuang, students could improve their health, be cured of debilitating diseases (as Wang himself had recovered from asthma), and develop the self-awareness, rootedness, and integrated power necessary for martial arts skill. Naturally, students who wished to perfect the martial arts had to apply their skill to full-speed sparring. But there were no “forms” or “katas,” no choreographed routines that the student had to memorize. Wang’s successes perplexed the martial arts community, who couldn’t understand the connection between zhan zhuang and self-defense.
 
-Wang Xiangzhai #8
-
-Wang Xiangzhai – Yiquan Posture #8
-
 ## Stories of Wang Xiangzhai
 
 Once there was a martial arts demonstration in Beijing, in which all the great luminaries of the period were invited to perform their arts. Wang sat in the audience and observed. After the demonstration was over and the audience had departed, Wang was still speaking with some friends. The other performers noticed the great I-Ch’uan master and asked him for a private demonstration. Wang tried to decline, but as they persisted, he climbed onto the stage. He assumed a tranquil posture and stood, and stood, and stood. . . . Now the performers were even more confused. Wang apologized, “You honored masters, are wonderful, the way you remember such complicated movements. I only have this one simple exercise.”
@@ -47,10 +44,10 @@ During the summers of 1976 and 1977, Sifu Han lived and practiced with Sifu Fong
 
 ## Seven Training Areas of I-Ch’uan
 
-zhan zhuang
-shi li
-walking zhan zhuang or mocabu
-fa li
-breath work
-tui shou
-san shou
+1. zhan zhuang
+2. shi li
+3. walking zhan zhuang or mocabu
+4. fa li
+5. breath work
+6. tui shou
+7. san shou
