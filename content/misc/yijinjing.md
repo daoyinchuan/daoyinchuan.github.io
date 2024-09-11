@@ -2,7 +2,7 @@
 title: "Yijinjing"
 date: 2024-01-03T11:42:25-06:00
 image: "../images/yijinjing.jpg"
-weight: 20
+weight: 3
 ---
 
 DaMo or Bodhidharma, an Indian holy man, came to China where he came upon the Shaolin Temple. While there he noticed the deplorable state of health the monks had. DaMo then went into seclusion into a natural rock cave for nine years. During that time he invented a form of ch’i-kung called Yijinjing (meaning “Muscle/Tendon Transformation”). And though DaMo certainly must have drawn upon his Indian yoga techniques in inventing Yijinjing, what he actually did was combine his own internal kung fu theory to the already existing Chinese theory of qigong, while taking the differences in Chinese physiology and physical environment into account. Chinese ch’i-kung was actually invented independently approximately 3,000 years ago, curiously enough also by a religious leader, Lao Tze, the founder of Taoism.

@@ -2,7 +2,7 @@
 title: "Wuji Qigong"
 date: 2024-01-03T11:42:25-06:00
 image: "../images/Linda-JoSant.png"
-weight: 30
+weight: 4
 ---
 
 A very simple and effective approach to meditation is called Wuji Qigong in Chinese. Its core is standing meditation. Loosely translated, “Qigong” means “energy work” and “wuji” means “void” or “emptiness.” The two pillars of this practice are to still the mind and the body. Once we are into the silence of the mind, the void or empty mind, we begin to sense the natural state of our being.

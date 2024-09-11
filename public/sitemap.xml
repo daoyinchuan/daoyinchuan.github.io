@@ -1,1 +1,39 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url><loc>https://daoyinchuan.github.io/pages/taijichih/</loc><lastmod>2024-01-03T11:42:25-06:00</lastmod></url><url><loc>https://daoyinchuan.github.io/about/</loc><lastmod>2021-04-27T11:42:25-06:00</lastmod></url><url><loc>https://daoyinchuan.github.io/practice/</loc><lastmod>2021-04-27T11:42:25-06:00</lastmod></url><url><loc>https://daoyinchuan.github.io/fongha/</loc><lastmod>2021-04-27T11:42:25-06:00</lastmod></url><url><loc>https://daoyinchuan.github.io/links/</loc><lastmod>2021-04-27T11:42:25-06:00</lastmod></url><url><loc>https://daoyinchuan.github.io/</loc><lastmod>2024-01-03T11:42:25-06:00</lastmod></url><url><loc>https://daoyinchuan.github.io/pages/</loc><lastmod>2024-01-03T11:42:25-06:00</lastmod></url><url><loc>https://daoyinchuan.github.io/categories/</loc></url><url><loc>https://daoyinchuan.github.io/tags/</loc></url></urlset>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:1313/misc/baduanjin/</loc>
+    <lastmod>2024-01-03T11:42:25-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/about/</loc>
+    <lastmod>2021-04-27T11:42:25-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/misc/taijichih/</loc>
+    <lastmod>2024-01-03T11:42:25-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/misc/yijinjing/</loc>
+    <lastmod>2024-01-03T11:42:25-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/misc/wuji/</loc>
+    <lastmod>2024-01-03T11:42:25-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/practice/</loc>
+    <lastmod>2021-04-27T11:42:25-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/fongha/</loc>
+    <lastmod>2021-04-27T11:42:25-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/misc/</loc>
+    <lastmod>2024-09-11T11:42:25-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/links/</loc>
+    <lastmod>2021-04-27T11:42:25-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-09-11T11:42:25-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+  </url>
+</urlset>
